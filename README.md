@@ -3,6 +3,7 @@ DZ Retro Machine 512gb Raspberry Pi 4 fully loaded Image
 
 🔶VIDEO🔶
 https://youtu.be/iHxbZwquLEg
+https://youtu.be/q7PMKkfJXkA
 
 Darish Zone (AKA DZ) returns with his blazing Raspberry Pi 4 loaded image “THE RETRO MACHINE” – a heavy 512gb build with over 23,000 games and 50 systems! This has taken 11 solid months, with DZ and his “DZ Team” endlessly ploughing away at it ! Check out his first boot video here!
 
